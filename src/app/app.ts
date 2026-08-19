@@ -14,7 +14,7 @@ type SectionId = 'services' | 'industries' | 'approach' | 'technologies' | 'abou
 
     <main id="top">
       <section class="hero" aria-labelledby="hero-title"><div class="hero-grid"></div><div class="hero-glow glow-one"></div><div class="hero-glow glow-two"></div><div class="network network-a"></div><div class="network network-b"></div><div class="network network-c"></div>
-        <div class="container hero-content"><p class="eyebrow light"><span></span> Intelligence, engineered for impact</p><h1 id="hero-title">Building what’s <em>next</em><br />with intelligent systems.</h1><p class="hero-copy">Stormy Point Technologies designs AI-powered solutions that turn complex ideas into measurable momentum.</p><div class="hero-actions"><a class="button button-primary" href="#services">Explore our services <span>→</span></a><a class="button button-ghost" href="#contact">Talk to an expert <span>↗</span></a></div><div class="hero-footnote"><span class="pulse"></span> Built for ambitious teams navigating meaningful change</div></div><div class="hero-orbit" aria-hidden="true"><i></i><i></i><i></i><b>AI</b></div>
+        <div class="container hero-content"><p class="eyebrow light"><span></span> Intelligence, engineered for impact</p><h1 id="hero-title">You're hired to drive <em>revenue</em>,<br />not enter notes.</h1><p class="hero-copy">An AI-powered sales companion that connects your CRM, customers, people and daily activities—helping sales teams spend less time managing information and more time selling.</p><div class="hero-actions"><a class="button button-primary" href="#services">Explore our services <span>→</span></a><a class="button button-ghost" href="#contact">Talk to an expert <span>↗</span></a></div><div class="hero-footnote"><span class="pulse"></span> Built for ambitious teams navigating meaningful change</div></div><div class="hero-orbit" aria-hidden="true"><i></i><i></i><i></i><b>AI</b></div>
       </section>
       <section class="capability-strip" aria-label="Core capabilities"><div class="container capabilities"><p>From strategy to scale</p><span>AI Strategy</span><span>Automation</span><span>Data Intelligence</span><span>Modern Platforms</span><span>Secure by Design</span></div></section>
 
@@ -28,11 +28,47 @@ type SectionId = 'services' | 'industries' | 'approach' | 'technologies' | 'abou
 
       <section class="section reasons"><div class="container"><div class="reason-intro"><p class="eyebrow light">Why Stormy Point</p><h2>More signal.<br /><em>Less noise.</em></h2></div><div class="reason-list"><article><span>01</span><h3>Outcome-led</h3><p>Technology serves a purpose: creating meaningful, lasting value.</p></article><article><span>02</span><h3>Designed together</h3><p>Your expertise stays at the center of every decision we make.</p></article><article><span>03</span><h3>Built to endure</h3><p>We create adaptable systems—not one-off experiments.</p></article></div></div></section>
 
-      <section id="technologies" class="section technologies"><div class="container"><div class="section-heading"><div><p class="eyebrow">04 — Technologies</p><h2>From possibility<br />to performance.</h2></div><p>Our capabilities connect the tools of today with the systems you will need tomorrow.</p></div><div class="tech-cloud"><span>Machine Learning</span><span>Generative AI</span><span>Data Platforms</span><span>Cloud Native</span><span>Automation</span><span>Human-centered Design</span><span>Analytics</span><span>Responsible AI</span></div></div></section>
+      <section id="technologies" class="section technologies"><div class="container"><div class="section-heading"><div><p class="eyebrow">04 — Technologies</p><h2>Built for every<br />platform and model.</h2></div><p>From mobile apps to cutting-edge AI engines—we build across the full stack, wherever your customers are.</p></div>
+        <div class="tech-categories">
+          <div class="tech-category">
+            <p class="tech-category-label">📱 Platforms</p>
+            <div class="tech-pills">
+              <span>🍏 iOS</span>
+              <span>🤖 Android</span>
+              <span>🌐 Web App</span>
+              <span>🖥️ Desktop</span>
+              <span>🔧 API / Backend</span>
+            </div>
+          </div>
+          <div class="tech-category">
+            <p class="tech-category-label">🧠 AI Models &amp; Engines</p>
+            <div class="tech-pills">
+              <span>✨ GPT-4o</span>
+              <span>🪩 Claude</span>
+              <span>🔵 Gemini</span>
+              <span>💫 Llama</span>
+              <span>🛠️ Codex</span>
+              <span>💎 Grok</span>
+              <span>🤖 Kiro</span>
+            </div>
+          </div>
+          <div class="tech-category">
+            <p class="tech-category-label">⚡ Stack &amp; Infrastructure</p>
+            <div class="tech-pills">
+              <span>📊 Data Platforms</span>
+              <span>☁️ Cloud Native</span>
+              <span>🔄 Automation</span>
+              <span>🛡️ Secure by Design</span>
+              <span>📈 Analytics</span>
+              <span>🤝 Integrations &amp; CRM</span>
+            </div>
+          </div>
+        </div>
+      </div></section>
 
-      <section id="about" class="section about"><div class="container about-grid"><div class="about-brand"><img src="stormy-point-lockup.png" alt="Stormy Point Technologies" /></div><div class="about-copy"><p class="eyebrow">About us</p><h2>AI with purpose.<br /><em>Progress with principle.</em></h2><p>Stormy Point Technologies is a technology partner for organizations ready to turn intelligence into meaningful progress. We bring strategy, design, and engineering together to build systems that are useful, responsible, and made to last.</p><a class="text-link" href="#contact">Meet the right challenge <span>→</span></a></div></div><div class="container principles"><article><span>01</span><h3>Meaningful outcomes</h3><p>We focus every solution on a real decision, a real team, and a measurable difference.</p></article><article><span>02</span><h3>Human-centered by design</h3><p>Technology earns trust when it feels clear, useful, and grounded in people’s work.</p></article><article><span>03</span><h3>Resilient systems</h3><p>We build foundations that can evolve confidently as your business and technology change.</p></article></div></section>
+      <section id="about" class="section about"><div class="container about-grid"><div class="about-brand"><img src="stormy-point-lockup.png" alt="Stormy Point Technologies" /></div><div class="about-copy"><p class="eyebrow">About us</p><h2>We simplify<br />the <em>complex.</em></h2><p>We are a team of technology enthusiasts passionate about turning complex processes into simple, intelligent experiences.</p><p>We believe technology should work for people—not the other way around. That's why we combine technology, AI and thoughtful design to create solutions that help teams spend less time managing complexity and more time focusing on what really matters.</p><a class="text-link" href="#contact">Meet the right challenge <span>→</span></a></div></div><div class="container principles"><article><span>01</span><h3>Meaningful outcomes</h3><p>We focus every solution on a real decision, a real team, and a measurable difference.</p></article><article><span>02</span><h3>Human-centered by design</h3><p>Technology earns trust when it feels clear, useful, and grounded in people's work.</p></article><article><span>03</span><h3>Resilient systems</h3><p>We build foundations that can evolve confidently as your business and technology change.</p></article></div></section>
 
-      <section id="contact" class="contact-section"><div class="container contact-grid"><div><p class="eyebrow light">05 — Contact</p><h2>Let’s make the<br /><em>next move</em> matter.</h2><p>Tell us where you are headed. We will help you see what is possible.</p><div class="contact-note"><span>✦</span><p>Great work starts with a clear conversation.</p></div></div><form class="contact-form" (submit)="$event.preventDefault()"><label>Your name<input type="text" name="name" placeholder="Jane Smith" /></label><label>Work email<input type="email" name="email" placeholder="jane@company.com" /></label><label class="full">How can we help?<select name="interest"><option value="">Select an area of interest</option><option>AI strategy & automation</option><option>Intelligent applications</option><option>Data & analytics</option><option>Modern platforms</option></select></label><label class="full">A little context<textarea name="message" rows="3" placeholder="Tell us about your challenge..."></textarea></label><button class="button button-primary form-button" type="submit">Send message <span>→</span></button><p class="form-caption">This form is ready for your future contact workflow.</p></form></div></section>
+      <section id="contact" class="contact-section"><div class="container contact-grid"><div><p class="eyebrow light">05 — Contact</p><h2>Let's make the<br /><em>next move</em> matter.</h2><p>Tell us where you are headed. We will help you see what is possible.</p><div class="contact-note"><span>✦</span><p>Great work starts with a clear conversation.</p></div></div><form class="contact-form" (submit)="$event.preventDefault()"><label>Your name<input type="text" name="name" placeholder="Jane Smith" /></label><label>Work email<input type="email" name="email" placeholder="jane@company.com" /></label><label class="full">How can we help?<select name="interest"><option value="">Select an area of interest</option><option>AI strategy & automation</option><option>Intelligent applications</option><option>Data & analytics</option><option>Modern platforms</option></select></label><label class="full">A little context<textarea name="message" rows="3" placeholder="Tell us about your challenge..."></textarea></label><button class="button button-primary form-button" type="submit">Send message <span>→</span></button><p class="form-caption">This form is ready for your future contact workflow.</p></form></div></section>
     </main>
     <footer class="site-footer"><div class="container footer-top"><a class="brand footer-brand" href="#top" aria-label="Stormy Point Technologies home"><img class="brand-lockup" src="stormy-point-lockup.png" alt="Stormy Point Technologies" /></a><p>Designing the intelligent systems that help ambitious organizations move forward.</p><div class="footer-links"><a href="#services">Services</a><a href="#industries">Industries</a><a href="#approach">Approach</a><a href="#technologies">Technologies</a><a href="#about">About</a><a href="#contact">Contact</a></div></div><div class="container footer-bottom"><span>© 2026 Stormy Point Technologies</span><a href="#top">Back to top ↑</a></div></footer>
   `,
